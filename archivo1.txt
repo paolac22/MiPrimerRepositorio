@@ -1,1 +1,2 @@
 Laboratorio 1 de Calidad de Software
+Esto es un archivo de prueba
